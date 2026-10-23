@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/poligrafiya/',
+  base: '/poligrafiya/', // <--- Mana shu qator shart!
 })
